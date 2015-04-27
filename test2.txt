@@ -1,3 +1,1 @@
 This is second file. Adding some change that I will revert.
-
-This is new line after adding changing that I had to revert.
